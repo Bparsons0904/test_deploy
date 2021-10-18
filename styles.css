@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 2rem;
+  text-align: center;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  line-height: 200px;
+  color: white;
+}
+
+#left {
+  background-color: blue;
+}
+
+#right {
+  background-color: red;
+}
